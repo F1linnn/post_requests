@@ -1,0 +1,26 @@
+{
+    "Form_templates": {
+        "1": {
+            "FormName": "MyForm_1_NEPD",
+            "f_name": "TYPE_TEXT",
+            "f_email": "TYPE_EMAIL",
+            "f_phone": "TYPE_PHONE",
+            "f_date": "TYPE_DATE"
+        },
+        "2": {
+            "FormName": "MyForm_2_NEP",
+            "f_name": "TYPE_TEXT",
+            "f_email": "TYPE_EMAIL",
+            "f_phone": "TYPE_PHONE"
+        },
+        "3": {
+            "FormName": "MyForm_3_NE",
+            "f_name": "TYPE_TEXT",
+            "f_email": "TYPE_EMAIL"
+        },
+        "4": {
+            "FormName": "MyForm_4_N",
+            "f_name": "TYPE_TEXT"
+        }
+    }
+}
